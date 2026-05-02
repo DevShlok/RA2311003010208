@@ -2,7 +2,7 @@ export async function getAuthToken(): Promise<string | null> {
     const data = {
         email: 'shloki69rwu@srmist.edu.in',
         name: 'shlok',
-        rollNo: 'ra2311003010208',
+        rollNo: 'RA2311003010208',
         accessCode: 'QkbpxH',
         clientID: '454418d7-5cea-4e14-9253-b7e5ffcd717a',
         clientSecret: 'GsxrjNWkUsqRkfuw'
